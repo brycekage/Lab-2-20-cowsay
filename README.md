@@ -3,8 +3,8 @@
 ![](https://github.com/mikeizbicki/lab-cowsay/workflows/flake8/badge.svg)&nbsp;
 ![](https://github.com/mikeizbicki/lab-cowsay/workflows/command_line/badge.svg)&nbsp;
 
-![](https://github.com/brycekage/Lab-2-20-cowsay/workflows/flake8.yaml/badge.svg)&nbsp;
-![](https://github.com/brycekage/Lab-2-20-cowsay/workflows/command_line.yaml/badge.svg)&nbsp;
+![](https://github.com/brycekage/Lab-2-20-cowsay/workflows/flake8/badge.svg)&nbsp;
+![](https://github.com/brycekage/Lab-2-20-cowsay/workflows/command_line/badge.svg)&nbsp;
 
 **About:**
 This lab will have you practice installing python libraries and running *linters*.
